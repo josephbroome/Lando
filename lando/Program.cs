@@ -13,7 +13,7 @@ if (myAge >= 20)
 {
     Console.WriteLine($"good night"); 
 }
-if (myAge <=20 )
+if (myAge < 20 )
 {
     Console.WriteLine($"good morning");
 }
