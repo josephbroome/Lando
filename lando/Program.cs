@@ -7,9 +7,9 @@ Console.WriteLine($"Can i tell you a story?");
 var Responsename = Console. ReadLine();
 
 Console.WriteLine($"There was once a cat that lived on the moon, what should his name be {personName}");
-int? myAge = null ;  Console. ReadLine();
+int myAge = 20 ;  Console. ReadLine();
 
-if (myAge > 20)
+if (myAge >= 20)
 {
     Console.WriteLine($"good night"); 
 }
