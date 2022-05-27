@@ -1,0 +1,15 @@
+C:\Users\serge\repos\lando\lando\bin\Debug\net6.0\lando.exe
+C:\Users\serge\repos\lando\lando\bin\Debug\net6.0\lando.deps.json
+C:\Users\serge\repos\lando\lando\bin\Debug\net6.0\lando.runtimeconfig.json
+C:\Users\serge\repos\lando\lando\bin\Debug\net6.0\lando.dll
+C:\Users\serge\repos\lando\lando\bin\Debug\net6.0\lando.pdb
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.csproj.AssemblyReference.cache
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.AssemblyInfoInputs.cache
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.AssemblyInfo.cs
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.csproj.CoreCompileInputs.cache
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.dll
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\refint\lando.dll
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.pdb
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\lando.genruntimeconfig.cache
+C:\Users\serge\repos\lando\lando\obj\Debug\net6.0\ref\lando.dll
