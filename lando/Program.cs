@@ -17,3 +17,15 @@ int myAge = 20 ;  Console. ReadLine();
     Console.WriteLine($"good morning");
     }
 int[] myArray = new int[] {1,3,5,7,9};
+
+int a = 1;
+
+int b = a; 
+
+a = 2 ;
+
+//Reference types//
+string name = "Joseph";
+string son1 = name;
+
+name = "John";
